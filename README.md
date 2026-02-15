@@ -37,10 +37,5 @@
 ---
 
 ## 📊 GitHub Stats
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agung-dimas&show_icons=true&theme=tokyonight&cache_seconds=1800" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agung-dimas&layout=compact&theme=tokyonight&cache_seconds=1800" height="160"/>
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agung-dimas&theme=tokyonight"/>
 
