@@ -38,6 +38,9 @@
 
 ## 📈 Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=agung-dimas&theme=tokyo-night"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/agung-dimas/agung-dimas/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 
 
